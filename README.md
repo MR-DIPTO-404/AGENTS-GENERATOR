@@ -26,10 +26,10 @@
 
 `pkg install git`
 
-`rm -rf AGENTS-CONVERTER`
+`rm -rf AGENTS-GENERATOR`
 
-`git clone https://github.com/MR-DIPTO-404/AGENTS-CONVERTER`
+`git clone https://github.com/MR-DIPTO-404/AGENTS-GENERATOR`
 
-`cd AGENTS-CONVERTER`
+`cd AGENTS-GENERATOR`
 
-`python Converter.py`
+`python Agents.py`
